@@ -27,4 +27,5 @@ public class recrn10 {
         String str = "abaacdaafaah";
         findOccur(str, 0, 'a');
     }
+    //time complexity is O(n)
 }

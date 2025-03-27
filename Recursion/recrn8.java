@@ -16,4 +16,6 @@ public class recrn8 {
         int n =1;
         towerOfHanoi(n, 's', 'h', 'd');
     }
+
+    //time complexity is O(2^n-1) ~= O(2^n)
 }

@@ -13,5 +13,6 @@ public class recrn9 {
         String str = "abcd";
         printRev(str, str.length()-1);
     }
+    //time complexity is O(n)
 }
   
